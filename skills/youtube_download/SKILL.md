@@ -57,3 +57,6 @@ Limitations:
 Error Handling:
 
 - if docker image not found build it with [dockerfile](./youtube_download/src/Dockerfile)
+  ```
+      docker build -t yt-dl:latest .
+  ```
