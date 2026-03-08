@@ -51,7 +51,9 @@ options:
 ```
 
 Limitations:
+
 - only able to download 1 url at a time
 
 Error Handling:
-- if docker image not found build it with ./yoiy
+
+- if docker image not found build it with [dockerfile](./youtube_download/src/Dockerfile)
